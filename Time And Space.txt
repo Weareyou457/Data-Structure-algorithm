@@ -1,0 +1,12 @@
+** TIME COMPLEXITY ** 
+
+Time Taken By an algorithm is called Time Complexity 
+
+Problem --> Solution --> Time minimum 
+ 
+old                 and         New 
+take a Time                   Not take a time 
+time = n                       time = n/2
+
+
+Space the amount of space required by of an algoritm 
