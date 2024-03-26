@@ -1,10 +1,4 @@
-/******************************************************************************
 
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
 
 #include <iostream>
 using namespace std;
@@ -20,15 +14,22 @@ int main()
     {
         cin >> nums[i];
     }
-    int temp= nums[0];
-    for(int i=0;i<n;i++){
+    // int temp= nums[0];
+    // for(int i=0;i<n;i++){
     
-    nums[i]=nums[i+1];
-    }
-    nums[n-1]=temp;
+    // nums[i]=nums[i+1];
+    // }
+    // nums[n-1]=temp;
     
-    for (int i = 0; i < n; i++)
-    {
-        cout<<nums[i]<<" ";
-    }
+    // for (int i = 0; i < n; i++)
+    // {
+    //     cout<<nums[i]<<" ";
+    // }
+
+    // int n=digits.size(),
+    int ans=0;
+        for(int i=1;i<=n;i++){
+            ans=ans+nums[i]*1*pow(0,n)
+        }
+        cout<<ans;
 }
