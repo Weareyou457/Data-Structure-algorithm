@@ -29,7 +29,7 @@ int main(){
     // }
     
 
-    // int arr[5]={1,2,3,4,5};
+    // int arr[5]={1,2,3,4,5};    
 
     // cout<<arr[0]; //1
     // cout<<arr[5];  // out of the bound 
